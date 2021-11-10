@@ -1,0 +1,8 @@
+Aula 6 (18-set-2019)
+1. Revisão geral
+2. Sobre o algoritmo BP no mdgp.nb: testes baseados em funções do pacote, parte2 (finalizado os exemplos de mdgp_testesBP[2].nb)
+3. Exercício:
+  (1) No Exemplo 8 se diminuirmos o valor de corte r_c = 4 para r_c = 3 (i.e., alterarmos P=DGRandomMDGP[n, 0.0, 4] 
+para P=DGRandomMDGP[n, 0.0, 3]) é esperado que o número de soluções deva aumentar ou diminuir? E se aumentarmos o 
+valor de corte para r_c = 6, o número de soluções aumenta ou diminui? Tente usar o Mathematica para verificar a resposta 
+correta.
