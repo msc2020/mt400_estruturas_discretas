@@ -1,0 +1,5 @@
+Aula 7 (25-set-2019)
+1. Revisão geral
+2. Testes com o algoritmo BP baseado no pacote mdgp.nb (parte 3) e no artigo 'A Branch-and-Prune algorithm for the Molecular Distance
+Geometry Problem',L. Liberti, C. Lavor, N. Maculan (2008) (em anexo mdgp_testes_artigoBP.nb)
+3. Exercícios: ao longo do arquivo mdgp_testes_artigoBP.nb
