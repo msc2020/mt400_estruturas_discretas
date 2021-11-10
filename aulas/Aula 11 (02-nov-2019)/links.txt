@@ -1,0 +1,10 @@
+https://github.com/jlaragonvera/Geometric-Algebra
+
+
+https://arxiv.org/abs/0810.2412
+
+Clifford Algebra with Mathematica
+G. Aragon-Camarasa, G. Aragon-Gonzalez, J.L. Aragon, M.A. Rodriguez-Andrade
+(Submitted on 14 Oct 2008 (v1), last revised 22 Jan 2018 (this version, v2))
+
+    The Clifford algebra of a n-dimensional Euclidean vector space provides a general language comprising vectors, complex numbers, quaternions, Grassman algebra, Pauli and Dirac matrices. In this work, we present an introduction to the main ideas of Clifford algebra, with the main goal to develop a package for Clifford algebra calculations for the computer algebra program Mathematica. The Clifford algebra package is thus a powerful tool since it allows the manipulation of all Clifford mathematical objects. The package also provides a visualization tool for elements of Clifford Algebra in the 3-dimensional space. clifford.m is available from github.com/jlaragonvera/Geometric-Algebra 
