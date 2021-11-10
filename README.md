@@ -16,8 +16,8 @@ ______
 4. Sobre o pacote do prof. Michael: mdgp.nb
 
 5. Exercícios (para tentar fazer com auxílio do Help do Mathematica):
-   1) gerar e tentar resolver um sistema linear **Ax = b**;
-   2) gerar e tentar resolver um sistema quadrático **x'Qx = b**.
+   1) gerar e tentar resolver um sistema linear Ax = b;
+   2) gerar e tentar resolver um sistema quadrático x'Qx = b.
 
 
 
