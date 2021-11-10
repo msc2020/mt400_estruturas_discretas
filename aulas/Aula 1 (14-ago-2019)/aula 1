@@ -1,1 +1,10 @@
 
+Aula 1 (14-ago-2019):
+
+1. Como instalar o Mathematica original (licença da Unicamp)
+2. Sobre interface do Mathematica, kernel, Help, etc.
+3. Dicas de programação: Comandos For[ ] , If[ ], RandomReal[ ], Shift +Enter
+4. Sobre o pacote do prof. Michael: mdgp.nb
+5. Exercícios (para tentar fazer com auxílio do Help do Mathematica):
+   1) gerar e tentar resolver um sistema linear Ax = b
+   2) gerar e tentar resolver um sistema quadrático x'Qx = b
