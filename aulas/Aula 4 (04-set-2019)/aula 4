@@ -1,0 +1,17 @@
+Aula 4 (04-set-2019)
+1. Sites:
+ - PDB: www.rcsb.org (exemplo de visuzaliação de um backbone)
+ - revistapesquisa.fapesp.br -> ciência -> 'Como o câncer de mama resiste à quimioterapia' (exemplo da importância da dimensão da solução em uma aplicação atual)
+2. Revisão geral
+3. Pacote mdgp.nb: finalizado exemplos baseados no mdgp.nb testados no mdgp_testes.nb
+4. Exercícios:
+   1) Considere um grafo (V ={1, 2, 3}, E ={{1, 2}, {1, 3}, {2, 3}}) com arestas 
+     de pesos d_{12} = d_{13} = d_{23} = 1. Seja a origem a posição do vértice v = 1. 
+     Escreva as equações do sistema (*) abaixo para K \in {1, 2, 3}, e resolva estes 
+     sistemas, algebricamente ou numericamente (p. ex., usando o Mathematica). Quantas 
+     soluções existem para K = 1? Para K = 2? E para K = 3?
+
+     (*) \forall {u,v} \in E: Sum_{k<=K}(x_{uk} - x_{vk})^2 = d_{uv}^2.
+
+    2) No pacote mdgp.nb encontre as seções DGBuildUpSolver e DGBPSolver. Teste seus
+       exemplos para diferentes dados de entrada.
