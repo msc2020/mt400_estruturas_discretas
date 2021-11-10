@@ -1,0 +1,11 @@
+Aula 3 (28-ago-2019)
+1. Revisão geral
+2. Pacote mdgp.nb: alguns exemplos de como utilizar funções do pacote (mdgp_testes.nb)
+3. Exercícios:
+   1) Faça uma função (Module[ ]) no Mathematica que receba os coeficientes a, b e c da eq. quadrática ax^2+bx+c = 0 e retorne sua solução.
+   2) Usando o Mathematica, tente gerar e resolver um sistema do tipo:
+       ||x - a|| = r_1
+       ||x - b|| = r_2
+       ||x - c|| = r_3
+   (a, b, c pertencem ao R^2 e r_i ao R^1_+).
+   3) Use o pacote mdgp.nb para gerar uma instância, resolver e plotar a solução para um DGP com 10 vértices.
